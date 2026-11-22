@@ -1,0 +1,3 @@
+Coloca aqui las fotos de los productos.
+El nombre del archivo debe ser el CODIGO del producto: A001.jpg, A002.png, A003.webp ...
+Formatos: JPG, PNG o WEBP. Recomendado: cuadradas (800x800 px) y de menos de 300 KB.
