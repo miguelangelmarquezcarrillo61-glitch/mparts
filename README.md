@@ -3,7 +3,7 @@
 **M-PARTS** es una aplicación web full-stack desarrollada en **PHP nativo y MySQL/MariaDB** para la gestión comercial y catálogo en línea de un negocio de repuestos y accesorios para motocicletas (**KLR 650, DR 650 y V-Strom**) en Cúcuta, Norte de Santander, Colombia.
 
 > **Proyecto Integrador · FESC (Fundación de Estudios Superiores Comfanorte) · 2026**  
-> 🌐 **Demo en línea:** [https://mparts-fesc.free.je/mparts/](https://mparts-fesc.free.je/mparts/?i=1)
+> 🌐 **Demo en línea:** https://mparts.freepage.cc/
 
 ---
 
