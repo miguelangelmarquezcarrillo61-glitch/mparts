@@ -131,4 +131,4 @@ Consulta el detalle de los 26 casos de prueba en [`docs/PRUEBAS_UNITARIAS.md`](d
 
 - **Institución:** Fundación de Estudios Superiores Comfanorte (FESC) — Cúcuta, Colombia
 - **Proyecto:** Proyecto Integrador — M-PARTS (2026)
-- **Integrantes:** *(Escribe aquí los nombres completos de los integrantes del equipo)*
+- **Integrantes:** *Osmar carrillo - Jhonny murcia - Johan manosalva - Miguel marquez - Juan gabriel*
