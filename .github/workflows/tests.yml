@@ -1,0 +1,19 @@
+name: Pruebas Unitarias M-PARTS
+
+on: [push, pull_request]
+
+jobs:
+  pruebas-unitarias:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar PHP 8.2
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          extensions: mbstring, pdo_sqlite
+
+      - name: Ejecutar suite de pruebas unitarias
+        run: php tests/run_tests.php
